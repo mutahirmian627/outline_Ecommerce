@@ -1,0 +1,3 @@
+[build]
+  functions = "netlify/functions"
+  publish = "dist" # Replace with the directory containing your frontend build files
